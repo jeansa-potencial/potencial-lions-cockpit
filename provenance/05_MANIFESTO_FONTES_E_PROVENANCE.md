@@ -32,10 +32,9 @@ Reference artifact included in this package:
   https://www.anthropic.com/research/skills
 
 ### Google Apps Script
-- Google for Developers, **Web Apps** — Apps Script can publish browser-accessible web apps using `doGet(e)` / `doPost(e)` e deployment settings.  
+- Google for Developers, **Web Apps** — Apps Script can publish browser-accessible web apps using `doGet(e)` / `doPost(e)` and deployment settings.  
   https://developers.google.com/apps-script/guides/web
-- Google for Developers, **Properties Service** — Apps Script provides Script/User/Document property stores for
-application configuration and preferences.  
+- Google for Developers, **Properties Service** — Apps Script provides Script/User/Document property stores for application configuration and preferences.  
   https://developers.google.com/apps-script/guides/properties
 
 ### GitHub
