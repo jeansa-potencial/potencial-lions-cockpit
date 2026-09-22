@@ -794,10 +794,9 @@ Escolhido: independent ownership. Evitar mensagens administrativas entre agentes
 
 ## 25. Resumo Executivo
 
-O Potencial & Lions | Partnership Cockpit é um sistema operacional cotidiano da parceria, não um dashboard decorativo. A missão é converter compromisso, frentes, decisões, gates e prioridades em execução observável e auditável.
+O Potencial & Lions | Partnership Cockpit é um sistema operacional cotidiano da parceria, não um dashboard decorativo. A missão é converter compromissos, frentes, decisões, gates e prioridades em execução observável e auditável.
 
-A governança foi deliberadamente dividida. Business/Operations define e evolui control
-es e regras de negócio sob aprovação de Jean. Claude/Cowork assume Application Engineering com autonomia sobre UX, frontend, Apps Script, Notion integration, segurança, testes, deployment e manutenção técnica. Não existe uma obrigação de comunicação administrativa entre as IAs; as duas trilhas operam em paralelo e só cruzam a fronteira quando há impacto material.
+A governança foi deliberadamente dividida. Business/Operations define e evolui controles e regras de negócio sob aprovação de Jean. Claude/Cowork assume Application Engineering com autonomia sobre UX, frontend, Apps Script, Notion integration, segurança, testes, deployment e manutenção técnica. Não existe uma obrigação de comunicação administrativa entre as IAs; as duas trilhas operam em paralelo e só cruzam a fronteira quando há impacto material.
 
 A arquitetura de baseline utiliza frontend web + Google Apps Script como runtime/secure bridge + Notion como fonte canônica do estado operacional. GitHub é obrigatório como fonte persistente do código e da documentação técnica. Secrets não podem aparecer no cliente nem no repositório.
 
